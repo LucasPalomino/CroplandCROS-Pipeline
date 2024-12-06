@@ -1,0 +1,7 @@
+1 12 = 1 Corn
+5 = 2 Soybean
+83 87 111 112 = 3 Water
+82 121 122 123 124 = 4 Urban
+2 3 4 6 10 11 13 14 21 thru 39 41 thru 57 60 66 thru 72 74 thru 77 204 thru 250 254 = 5 Other Crops
+58 63 64 141 142 143 152 176 190 195 = 6 Other Vegetation
+* = 0 Other/No Data

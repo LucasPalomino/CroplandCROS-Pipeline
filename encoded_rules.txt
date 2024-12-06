@@ -1,0 +1,9 @@
+0 24 32 40 48 = 1 No Change
+15 = 2 Corn to Soy
+9 = 3 Soy to Corn
+7 10 thru 13 = 4 New Corn
+14 17 thru 20 = 5 New Soy
+8 = 6 2-Year Corn
+16 = 7 2-Year Soy
+28 thru 31 33 34 = 8 Urban Sprawl
+* = 0 Other Changes
