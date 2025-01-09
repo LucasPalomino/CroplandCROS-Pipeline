@@ -1,7 +1,7 @@
 # CroplandCROS-Pipeline
 
 ## About
-This pipeline uses PyGRASS and GRASS.Jupyter to automatically analyze soybean-corn rotations accross the United States using the USDA's CroplandCROS data.
+This pipeline uses PyGRASS and GRASS.Jupyter to automatically analyze soybean-corn rotations accross the United States using the USDA's CroplandCROS data. Accesible distribution in process.
 
 ### Prerequisites
 - Python 3.13.0
